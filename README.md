@@ -126,12 +126,3 @@ Complete task management application built with HTML, CSS, and JavaScript in a s
 
 > I don't wait to learn — I build, break, and learn faster.
 
----
-
-<div align="center">
-
-**⭐ If you find my projects useful, please consider giving them a star! ⭐**
-
-Made with ❤️ by [Tamima Mollick Tuly](https://github.com/TulyXPlatform)
-
-</div>
