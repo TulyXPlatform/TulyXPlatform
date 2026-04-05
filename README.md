@@ -1,7 +1,7 @@
 # Tamima Mollick Tuly 👋
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+🚀;.NET+%7C+Angular+%7C+React;HTML+%7C+CSS+%7C+JavaScript;Building+Scalable+Systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;.NET+Backend+Expert;Angular+%26+React+Frontend;Building+Scalable+Systems" alt="Typing SVG" /></a>
 </h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TulyXPlatform&style=flat-square&color=00D9FF)
@@ -112,8 +112,7 @@ Complete task management application built with HTML, CSS, and JavaScript in a s
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=TulyXPlatform&theme=react-dark&hide_border=true)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TulyXPlatform&theme=react-dark&hide_border=true)
 ---
 
 ## 🌐 Connect
