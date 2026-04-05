@@ -1,10 +1,10 @@
 # Tamima Mollick Tuly 👋
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;.NET+%7C+Angular+%7C+React;Building+Scalable+Systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer+🚀;.NET+%7C+Angular+%7C+React;HTML+%7C+CSS+%7C+JavaScript;Building+Scalable+Systems" alt="Typing SVG" /></a>
 </h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TulyXPlatform&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=TulyXPlatform&style=flat-square&color=00D9FF)
 
 **Full Stack Developer (.NET | Angular | React)**
 Learning & building scalable systems with clean architecture mindset.
@@ -75,11 +75,44 @@ Multi-role system (Admin, Student, Faculty) for academic management.
 
 ---
 
+### 📚 HTML & CSS Learning Guide
+
+Interactive learning platform with 22 comprehensive lessons covering HTML & CSS fundamentals with live code examples and responsive design.
+
+🔗 Live Demo: https://tulyxplatform.github.io/HTML-CSS-Project/
+🔗 Repository: https://github.com/TulyXPlatform/HTML-CSS-Project
+
+**Features:**
+- 22 comprehensive lessons
+- Live code examples
+- Responsive design
+- Modern UI/UX
+
+---
+
+### ✅ Task Manager with Theme Switcher
+
+Complete task management application built with HTML, CSS, and JavaScript in a single file. Features Light, Dark, and Blue themes.
+
+🔗 Repository: https://github.com/TulyXPlatform/Task-Manager-with-Theme-Switcher
+
+**Features:**
+- Complete HTML + CSS + JS in single file
+- 3 Theme modes (Light, Dark, Blue)
+- Full task management functionality
+- Responsive design
+
+---
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TulyXPlatform&show_icons=true&hide_border=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TulyXPlatform&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TulyXPlatform&layout=compact&hide_border=true&theme=dark)
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=TulyXPlatform&theme=react-dark&hide_border=true)
 
 ---
 
@@ -90,12 +123,16 @@ Multi-role system (Admin, Student, Faculty) for academic management.
 
 ---
 
-## 📈 Contribution Graph
-
-![snake gif](https://github.com/TulyXPlatform/TulyXPlatform/blob/output/github-contribution-grid-snake.gif)
-
----
-
 ## ⚡ Mindset
 
 > I don't wait to learn — I build, break, and learn faster.
+
+---
+
+<div align="center">
+
+**⭐ If you find my projects useful, please consider giving them a star! ⭐**
+
+Made with ❤️ by [Tamima Mollick Tuly](https://github.com/TulyXPlatform)
+
+</div>
